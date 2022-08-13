@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/feedback"
+        android:title="FeedBack">
+
+    </item>
+
+    <item android:id="@+id/sms"
+        android:title="Share Our App">
+
+    </item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout">
+
+    </item>
+
+    <item
+        android:id="@+id/searchButton"
+        android:title="Search"
+        app:showAsAction="always|collapseActionView"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:actionViewClass="androidx.appcompat.widget.SearchView">
+    </item>
+</menu>
