@@ -1,2 +1,2 @@
 # Keep-Notes-Firebase
-A fully dyanamic notes Taking app with user authentication.
+A fully dyanamic notes taking app with user authentication.
